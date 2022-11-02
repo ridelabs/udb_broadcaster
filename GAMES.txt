@@ -1,4 +1,15 @@
 Maybe a prize for First to figure out how to map ipaddress to name so that they know who's talking.
 First to figure out how to spam everyone in a loop.
 First to figure out how to ignore the spammer and go on with their conversations.
+Send random stuff
+Map ip to user so it's a chat
+Ignore message from certain people or ips
+Broadcast spam
+Ignore spam
+Make a secret encryption algorithm
+Invent a couple of protocols and run listener in multiple modes for various things.
+Snoop traffic with ethereal
+Make a json layer
+Support multi packet messages
+
 
